@@ -27,3 +27,8 @@ In the ```./src/Solution.ipynb```, all the exploratory data analysis (EDA), prep
 * Neural Network: https://www.kaggle.com/xufanxiong/artificial-neural-network
 * Gradient Boost Regression Tree: https://www.kaggle.com/yansun1996/gbr-ipynb
 * LightGBM: https://www.kaggle.com/xufanxiong/light-gbm
+
+### How to Run
+1. Fork our kernel on Kaggle to reproduce our results or modify for further exploration.
+2. Download the dataset, download our code and reproduce our result.
+3. This is a kernel only competition, in order to get the submission score you must submit the prediction through kernels.
